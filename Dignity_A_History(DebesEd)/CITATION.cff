@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this book or its chapters, please cite it as below."
+title: "Dignity: A History"
+editors:
+  - family-names: "Debes"
+    given-names: "Remy"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+publisher: "Oxford University Press"
+date-released: 2017-07-03
+isbn: "9780199385997"
+doi: "10.1093/acprof:oso/9780199385997.001.0001"
+url: "https://global.oup.com/academic/product/dignity-a-history-9780199385997"
+type: book
