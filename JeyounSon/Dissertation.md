@@ -2,12 +2,16 @@
 title: "Human Dignity as a Legal Concept"
 author:
   name: "Jeyoun Son"
+  affiliation: "Seoul National University"
   role: "author"
-  note: "This author is the creator of this repository."
+  note: "This dissertation is the author's own doctoral thesis."
 date: 2018-02
 language: ko
 citation_key: "Son2018_HumanDignityLegal"
-keywords: ["인간존엄", "법철학", "기본권", "헌법"]
+document_type: "thesis"
+keywords: ["인간존엄", "법철학", "기본권", "헌법", "학위논문"]
+abstract: |
+  본 논문은 인간존엄의 법적 개념을 규범적으로 분석하며, 헌법 내에서의 인간존엄 개념이 기본권 구조 및 정당화 이론과 어떻게 연관되는지를 고찰한다.
 ---
 
 # Human Dignity as a Legal Concept

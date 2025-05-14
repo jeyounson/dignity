@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dissertation in your work, please cite it as follows:"
+title: "Human Dignity as a Legal Concept"
+type: thesis
+authors:
+  - name: Jeyoun Son
+    affiliation: "Seoul National University"
+    role: author
+    note: "This dissertation was authored by the maintainer of this repository."
+date-released: 2018-02-01
+abstract: >
+  This dissertation develops a philosophical and legal theory of human dignity, focusing on its normative structure within constitutional law. It analyzes the legal status of dignity in relation to fundamental rights and institutional justification.
+keywords:
+  - human dignity
+  - legal philosophy
+  - fundamental rights
+  - Korean constitutional law
+language: "ko"
+license: "All rights reserved"
+citation-key: "Son2018_HumanDignityLegal"
