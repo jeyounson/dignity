@@ -1,0 +1,120 @@
+---
+title: "Constructing the Meaning of Human Dignity: Four Questions"
+author:
+  name: "Catherine Dupré"
+  affiliation: "University of Exeter"
+booktitle: "Understanding Human Dignity"
+editor: "Christopher McCrudden"
+publisher: "Oxford University Press"
+year: 2013
+pages: "113–122"
+isbn: "9780197265826"
+citation_key: "Dupré2013_ConstructingMeaning"
+keywords: ["human dignity", "legal theory", "philosophy"]
+abstract: |
+  This chapter poses four critical questions to unpack the meaning of human dignity, examining its implications across legal and philosophical contexts.
+---
+
+# **Constructing the Meaning of Human Dignity: Four Questions**
+
+#### *Catherine Dupn?*
+
+#### Introduction
+
+HUMAN DIGNITY IS A multi-layered concept, with deep roots in history, philosophy, religion, politics, and law, to name but a few of the disciplines represented in this conference. While it is not easy to come up with a universally accepted legal definition of human dignity (it may in fact be neither possible nor desirable to do so), this chapter argues that it is nevertheless possible to identify a legal concept of dignity, particularly in Europe. In terms of positive ·law, this definition can be primarily located in the European Union Charter of Fundamental Rights (EU Charter), which came into force with the Lisbon Treaty in December 2009. This chapter proposes to use the EU Charter definition of human dignity as a tangible example of what dignity can be as a legal concept and as a helpful starting point to discuss four key questions that generally arise about constructing human dignity and understanding it. Each question is considered briefly in turn: What is human dignity? Who makes human dignity? When does dignity emerge as a legal concept? Why has dignity been Gt"afted as a legal concept?
+
+#### What is human dignity as a legal concept?
+
+Human dignity has been a well-established legal concept since 1948, when it was enshrined under article 1 of the United Nations Universal Declaration of Human Rights/ and since then, it has been regularly enshrined in constitu-
+
+<sup>1</sup> With thanks to Stephen Skinner for reading and checking an earlier draft of this chapter. The usual caveat applies.
+
+<sup>2 &#</sup>x27;All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.'
+
+tions around the world and in particular in Europe. The EU Charter provides one of the latest examples of codification of human dignity in a legal text, and is used here in order to illustrate how a (specific) legal definition of human dignity can be further discussed.
+
+The EU Charter enshrines human dignity under its title I, which explicitly lists what are arguably the core components of human dignity in the EU: the principle of inviolability and a correSponding duty to respect and protect it. (article 1), the right to life (article 2), the right to respect for physical and mental integrity (article 3), the prohibition of torture, and inhuman and degrading treatment or punishment (article 4), and the prohibition of slavery, forced labour, and human trafficking (article 5).3 In addition to this core definition, the EU Charter contains two explicit mentions of dignity: the first relates to 'the rights of the elderly to lead a life of dignity and to participate in social and cultural life' (article 25), and the other' protects 'the right to working conditions which respect [workers'] health, safety and dignity' (article 31).
+
+While the EU Charter contains the first explicit mention of human dignity at the supranational level in Europe, this concept is not totally new to law in Europe.4 It had already been substantially constructed by the European Court of Human Rights (ECtHR), which has made its commitment to protecting human dignity explicit since the 1990s.5 In this respect, it has to be noted that the first title of the EU Charter endorses the first three substantive rights of the European Convention on Human Rights (ECHR). Moreover, the EU Charter develops the ECHR by adding the principle of inviolability, by granting the protection of mental and physical integrity (so far largely recognized under article 8 of the ECHR) a distinct normative basis under article 3 of the EU Charter, and by adding the specific prohibition on human trafficking. Finally, most EU Member States' constitutions enshrine human dignity under their human rights section, and have developed this concept through case law over the years.6 In short, the European concept of human dignity is not only firmly established in (almost) all legal systems in Europe (both at national and supranational levels), but it has already reached a substantial normative density and complexity in its application in case law, included that of the European Court
+
+<sup>3</sup> C. Dupre, 'Article 1: human dignity', in T. Hervey, S. Peers, J. Kenner, and A. Ward ( eds ), *A Commentary on the European Union Charter of Fundamental Rights* (Oxford, Hart Publishing, 2013), 319-41.
+
+<sup>4</sup> C. Dupre, 'Dignite dans !'Europe constitutionnelle: entre inflation et contradictions', in J. Ziller ( ed. ), *L 'Europeanisation des Droits Constitutionnels a Ia Lumiere de Ia Constitution pour I 'Europe*  (Paris, L'Harmattan, 2003), 121-35.
+
+*<sup>5</sup> SWv UK,* 22 November 1995, application No. 47/1994/494/576, see also *Prettyv UK,* 29 July 2002. 6 C. Dupre, 'Human dignity in Europe: a fourtdational constitutional principle', *European Public Law*  19 (20 13 forthcoming).
+
+of Justice.7 As argued by Susanne Baer, it is best understood in a triangular connection with two other key values and rights of liberal constitutionalism, liberty and equality. 8
+
+This short answer to the 'what?' question does not however provide a full definition of human dignity as a legal concept; instead it establishes a point of reference and raises further questions of wider relevance. Four of them are briefly considered here. The most important question perhaps concerns the connections between the right to life and respect for human dignity. In this regard, the EU Charter arguably introduces a change in the hierarchy of rights established by the ECHR and the ECtHR, according to which, the right to life understood as sanctity of life takes priority over respect for dignity.9 By contrast, in the EU Charter dignity comes before life, and this is arguably going to change the understanding and protection of the right to life, with the consequence that the concept of life in dignity might complement, and perhaps challenge, the principle of sanctity of life in ways that have yet to be explored and discussed. The second question is about the connections between dignity and work, which are made under article 5 of the EU Charter and article 4 of the ECHR, 10 as well as article 31 of the EU Charter. There is no doubt that protection of and respect for human dignity requires the prohibition of slavery, forced labour, and human trafficking. Arguably, however, protection of workers' dignity is not exhausted by the fact that they may not be subjected to these extreme violations. At the same time, while protection of dignity at work originally meant protection against sexual harassment, its full potential has yet to be explored, in particular perhaps in the light of domestic constitutions which have connected dignity and work with a decent income. 11 The third question arises out of article 25 of the EU Charter and the right of the elderly to a life in dignity. This involves in the first place some technical issues about determining a legal definition for the elderly (is it purely an age question?), as well as defining the legal boundaries of 'a life in dignity and independence and to participate in social and cultural life'. More importantly, perhaps, this provision possibly points towards a much more comprehensive protection of dignity, understood not just as its core elements under title 1 but as promoting a much more inclusive social model, in which everyone (and not just the elderly) could expect to lead a life of the quality described under
+
+<sup>7</sup> L. Burgogne Larsen (ed.), *La Dignite Saisie par les Juges en Europe* (Bruxelles, Bruylant, 2010).
+
+<sup>8</sup> S. Baer, 'Dignity, liberty, equality: a fundamental rights triangle of constitutionalism', *University of Toronto Law Journal* 59 (2009), 417-68.
+
+<sup>9</sup> As very clearly illustrated in the *Pretty v UK* case.
+
+<sup>10</sup> See Rebecca Scott, Chapter 2, this volume.
+
+<sup>11</sup> For example, see article 36, Italian Constitution.
+
+article 25. The fourth and last question considered here is one of method (and not substance), which is central to the interpretation and implementation of the EU Charter and is about integrating the various interpretations of human dignity, as developed in the ECHR and Member States' constitutional case law, particularly perhaps when they conflict. While this raises technical issues of EU law and human rights interpretation, the core question however is a political one: what kind of image of a human and of society being do Europeans want to create through their use of human dignity? Answering this leads to the questions below.
+
+### Who makes human dignity?
+
+The question 'who makes human dignity?' presupposes that this is not a Godgiven quality and that it is a human concept, in other words, a social and political construct. In law, this question has largely focused on the role of judges in making dignity, with (rightly perhaps) some strong reservations about judges not being sufficiently well equipped or well positioned to construct this cept gradually through their case law.12 It has to be remembered, however, that within the EU national judges are tied by a codified constitution (with the exception of the UK), the principle of primacy ofEU law and of the EU Charter when applicable, and by ECtHR case law. As I have argued elsewhere, judges are also tied by a concept of a particular type of democratic civilization that has been developed in Europe in a conjunction of legal and political factors. 13
+
+Another group of dignity-makers has often been unnoticed by legal scholars, despite the fact that it arguably includes those who are perhaps the most · important people in this process, namely the (alleged) victims of breaches of dignity. It is suggested here that any effort to define dignity further in law ought to find ways of including the victims, together with those who are most vulnerable and at risk of having their dignity violated. This can be done by paying closer attention to the applicants' arguments about, and construction of, human dignity in the context of human rights adjudication; by undertaking empirical studies to find out what a breach of human dignity feels like, and what causes it; or by including types of dignity narratives, such as personal testimonies and stories, 14 in legal discussion of this concept. From a
+
+<sup>12</sup> C. McCrudden, 'Human dignity and judicial interpretation of human rights', *European Journal of International Law* 19 (2008), 655-724, and N. Rao, 'On the use and abuse ofhuman dignity in constitutionallaw', *Columbia Journal of European Law* (2008), 201-55.
+
+<sup>13</sup> C. Dupre, 'Dignity, democracy, civilisation', *Liverpool Law Review* (2013), 264-80.
+
+<sup>14</sup> See Edwin Cameron, Chapter 27 in this volume.
+
+methodological point of view, any construction of a legal concept of human dignity ought to check that it passes what can be called the victim test, and explore whether or not it benefits the most vulnerable people and potential victims of dignity breaches. 15 After all, there is little point in constructing a legal concept of dignity which ignores the victims and is therefore bound to offer only limited protection.
+
+# When did human dignity emerge as a legal concept?
+
+Dignity as a legal concept was certainly not made in one day. 16 The 'when?' question raises a complex issue. There is widespread agreement among lawyers that dignity's history ought to include non-legal elements, such as philosophy, with Kant's work being by far the most frequently cited. 17 Historical events also form part of its development, with the Second World War and the Holocaust being understood to have contributed significantly to the use of dignity in law. However, dating the beginning of a concept, as Gadamer reminded us, is not that simple, and it involves taking a political and philosophical stance on the concept's meaning and finality. 18 In relation to dignity, several beginning dates can be identified. For instance, as the concept of dignity is so tightly connected to human rights, 1789 might be a suitable starting date: despite the fact that the French Declaration of the Rights ofMan and the Citizen did not include dignity in its current understanding, it arguably created the legal conditions for dignity to emerge as a legal concept later on. If we are looking for the first mention of dignity in a normative text, then 1848, with the adoption of the French decree prohibiting slavery, becomes a possible starting date. 19 The most generally mentioned starting dates are 1948 and 1949, but they leave out pre-war legal uses of the concept, such as the Irish Constitution
+
+<sup>15</sup> See Clemens Sedmak, Chapter 33 in this volume.
+
+<sup>16</sup> C. R. Miguel, 'Human dignity: history of an idea', *Jahrbuch des o.ffentlichen Rechts* 50 (2002), 281- 99, and Michael Rosen, *Dignity: Its History and Meaning* (Harvard, Harvard University Press, 2012). In German, see J. Wetz (ed.), *Texte zur Menschenwiirde* (Stuttgart, Reklam, 2011), and P. Kondylis, 'Artikel Wiirde' *Geschichtliche Grundbegriffe 11-VIIL Band* 7 (Stuttgart, Klett-Cotta, 1992), 637-77. 17 G. P. Fletcher, 'Human dignity as a constitutional value', *University of Western Ontario* 22 (1984), 171-82, and T. E. Hill, *Dignity and Practical Reason* in *Kant's Moral Theory* (Ithaca, NY, and London, Cornell University Press, 1992).
+
+<sup>18</sup> H. G. Gadamer, *Au Commencement de Ia Philosophie, pour une Lecture des Presocratiques* (Paris, Seuil, 2001 ).
+
+<sup>19</sup> Decree of27 April1848, http://www.assemblee-nationale.frlhistoire/esclavage/decret1848.asp. See Rebecca Scott, Chapter 2 in this volume.
+
+of 1937.20 The last date that can be considered here is 2009, when the Lisbon Treaty came into force. This explicitly enshrined for the first time in Europe a normative definition of human dignity, binding both on the EU and its Member States (when they are implementing EU law).
+
+The small sample of dates considered here demonstrates how significant dating the beginning of human dignity's construction as a legal concept can be for understanding and using it in law. For instance, using 1789 arguably leads to a definition of human dignity as a foundational principle of liberal democracy, strongly connected to claims of liberty and equality; using 1848 sheds light on the fundamental connection between dignity, humanity, work, and working conditions, and calls for other dates to be considered, such as 191921 or 1946 ;22 choosing 1949 as a starting date has led to a construction of dignity as a negative concept, that is, a 'never again' response to the systematic denial and destruction of humanity, which leaves out its arguably much-needed positive and complementary dimensions; finally, a 2009 focus highlights the novelty of dignity, but risks misrepresenting it as a primarily EU-made concept, whereas the story is much more complex, involving Member States and the ECtHR as key actors, as well as their histories and contexts.
+
+All these dates are not of course mutually exclusive, but rather point to the necessity of understanding dignity against a complex historical backdrop, bearing in mind that the development of a constitutional concept is not always linear and mono-directional, and that the exceptions and detours arguably deserve as much (if not more) scholarly attention than the apparently main direction.23 Finally, dating the beginning of dignity and reconstructing its history require that the concept be methodologically positioned within a wider context and evolution. The dates suggested above are based on the assumption that the construction of dignity is part of the greater adventure of liberal
+
+<sup>20</sup> W. Binchy, 'Human dignity as a constitutional principle', in 0. Doyle and E. Carolan (eds), *The Irish Constitution: Governance and Values* (Dublin, Thomson Rond Hall, 2008), 307-26. See also Samuel Moyn, Chapter 4, this volume.
+
+<sup>21</sup> Respectively adoption of the Weimar Constitution, which mentions human dignity in relation to the economic life (article !51, written under the direct influence of Las sale) and creation of the International Labour Organization.
+
+<sup>22</sup> Article 36.1 of the 1946 Italian constitution reads: 'Workers are entitled to a remuneration commensurate with the quantity and quality of their work, and in any case sufficient to ensure to them and their family a free and dignified existence [un'esistenza Iibera e dignitosa].'
+
+<sup>23</sup> Franco's constitution (1947 Fuero de los Espanoles) made 'respect human dignity, integrity and the liberty of human person' its 'ruling principle'. Petain's organic statute of 10 July 1940 (never enforced) was based on human dignity. See also the controversial Fundamental Law in force in Hungary since January 2012: C. Dupre 'Human dignity: Rhetoric, protection, instrnmentalisation', in G. A. T6th (ed.), *Constitution for a Disunited Nation. On Hungary's 2011 Fundamental Law* (Budapest, Central European University Press, 2012), 143-70.
+
+democracy, a positioning that serves to understand the concept in a retrospective manner and to construct its history by a process of selection and inclusion (and thus exclusion) of key dates and events. The methodological awareness of dignity's positioning on a wider timeline is also crucial, of course, when understanding and constructing dignity in a prospective manner, that is, looking to the future and reflecting on the concept's possible implications, ensuring that this micro-narrative is not too inconsistent with the macro-narrative.
+
+### Why has human dignity been used as a legal concept?
+
+The last question to be considered is the reason why dignity is being constructed and used as a legal concept when it is apparently such a difficult and controversial idea. The overall answer suggested here is that dignity is used to introduce change in the law, and this can be observed both at the level of constitution-making and at the level of human rights adjudication. The use ofhuman dignity to break away from regimes of indignity and destruction of humanity is a well-known reason for enshrining it in constitutions adopted after a dictatorship, with the 1949 German Basic Law being the emblematic, but certainly not isolated, example.24 In this context, human dignity can be understood as a solemn constitutional commitment 'never again' to deny people their humanity and to destroy it in a systematic manner. The connection between enshrining dignity and a new constitutional beginning has also spread beyond the context of post-dictatorial constitution-making, as illustrated by the 1994 Belgian constitution, the 2000 Finnish constitution, and the 2009 Lisbon Treaty (to the extent that it can be considered as founding the new constitutional order of the EU).
+
+The more frequent, and perhaps the more difficult, uses of dignity have taken place in the context of human rights adjudication, and they have triggered a substantial amount of controversy and confusion owing to their apparent lack of logic and predictability. As frequently noted, human dignity has usefully filled in a gap in human rights protection that had not been addressed by the constitution or lawmakers in a given system. More importantly, perhaps (because less noticed), human dignity has arguably been used to introduce
+
+<sup>24</sup> In Europe, the constitutions of Greece, Portugal, Spain, Hungary (1989), Bulgaria, Romania, Slovenia, Estonia, Slovakia, Lithuania, Czech Republic, Latvia, and Poland enshrined dignity to mark a break away from a regime of dictatorship. See C. Dupre, *Importing the Law in Post-Communist Transitions: The Hungarian Constitutional Court and the Right to Human Dignity* (Oxford, Hart Publishing, 2003). The South African constitution adopted at the end of the apartheid also enshrined dignity in a similar move away from the racist regime that had prevailed until then.
+
+#### 120 *Catherine Dupre*
+
+deep transformations at the heart of human rights understanding, reflecting more general social and cultural expectations and perceptions. Defining human dignity in this context involves assessing the change introduced by judicial reliance on it. This question has often been phrased and simplified in terms of whether or not dignity promotes a pro-life or a pro-choice stance on abortion, or a pro-assisted suicide or a pro-sanctity of life approach, to refer to what are perhaps two of the most· controversial judicial usages of human dignity. These examples point to what is arguably the key question: the issue of fit of a new concept in an older or well-established system of rights and values. The tension between dignity of life and sanctity of life is an emblematic example. Understanding dignity and constructing it further in legal terms arguably requires movement beyond a (usually) conflictual approach to this type of tension and to reconsider critically the more familiar (and better established) concepts or rights with which dignity appears to conflict. A definition of human dignity can of course be found in the outcome of a particular dignity-based judgement. More informatively, however, it will be found in the degree of transformation that the established concept (e.g., equality, autonomy, or sanctity of life) has undergone by being interpreted through the prism of human dignity. The changes introduced by human dignity do not always trigger consensus, and should not be accepted without a sound degree of scepticism and criticism. Taking on board the potent transformative function of dignity and measuring it, however, also forms part of this concept's definition.
+
+Therefore, it is suggested here that any scholarly definition or judicial use of dignity should pass a dual transformation test. Judges and scholars need to check whether reliance on dignity is not meaningless and redundant, and, for instance, better replaced by an easier and more familiar concept (e.g., respect, decency, or autonomy, to list a few words often used in conjunction with dignity). Moreover, they need to identify the change introduced as a result of using a human dignity argument, and to reflect on its short term (e.g., as limited to a given dispute), and wider impact and implications (e.g., on the whole thinking and practice ofhutrian rights).
+
+### Conclusion
+
+This chapter has endeavoured to move beyond the emotionally and politically charged discussions that the mention of human dignity almost invariably triggers, by looking at how the concept has been constructed in the legal field. It has shown that the concept of dignity is firmly embedded in European law, with a plurality of histories, normative definitions, and actors who have contributed to its construction. The (brief) discussion of these four questions has shifted the focus of attention in seeking to understand dignity away from a search for a single definition to an awareness of dignity's context contingent and constructed-even 'under construction'-nature, with a diverse range of narratives and narrators involved in its legal formulation. Rather than being an obstacle to understanding, however, the unfinished nature of human dignity is a crucial sign of its dynamism and usefulness.

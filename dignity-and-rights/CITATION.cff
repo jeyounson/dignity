@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Dignity and Rights"
+authors:
+  - family-names: "Zylberman"
+    given-names: "Ariel"
+    affiliation: "University at Albany, State University of New York"
+    orcid: "https://orcid.org/0000-0002-1234-5678"  # 실제 ORCID로 대체 필요
+publisher: "Cambridge University Press"
+date-released: 2025-02-06
+isbn: "9781009238571"
+doi: "10.1017/9781009238601"
+url: "https://www.cambridge.org/core/elements/dignity-and-rights/DB07EE06957CE2AABCF552A4821414BE"
+type: book

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this book, please cite it as below."
+title: "Contours of Dignity"
+authors:
+  - family-names: "Killmister"
+    given-names: "Suzy"
+    orcid: "https://orcid.org/0000-0002-1234-5678"  # 실제 ORCID로 대체 필요
+publisher: "Oxford University Press"
+date-released: 2020-03-05
+isbn: "9780198844365"
+doi: "10.1093/oso/9780198844365.001.0001"
+url: "https://global.oup.com/academic/product/contours-of-dignity-9780198844365"
+type: book

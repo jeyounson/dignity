@@ -1,0 +1,219 @@
+# Bibliography
+
+- Agamben, Giorgio. 1998. *Homo sacer: Sovereign power and bare life*. Stanford: Stanford University Press.
+- Alcoff, Linda Martín. 2006. *Visible Identities: Race, Gender, and the Self*. New York: Oxford University Press.
+- Alcoff, Linda Martín. 1998. "What Should White People Do?" *Hypatia* 13 (3):6–26.
+- Allhoff, Fritz. 2012. *Terrorism, Ticking Time-bombs, and Torture: A philosophical analysis*. Chicago: University of Chicago Press.
+- Améry, Jean. 1980. *At the Mind's Limits*. Translated by Sidney Rosenfeld and Stella P. Rosenfeld. Bloomington: Indiana University Press.
+- Anderson, Benedict. 1991. *Imagined Communities: reflections on the origin and spread of nationalism*. London; New York: Verso.
+- Appiah, Kwame Anthony. 2011. *The Honor Code: How moral revolutions happen*. New York: WW Norton & Company.
+- Appiah, Kwame Anthony. 1996. "Race, Culture, Identity: Misunderstood Connections." *The Tanner Lectures on Human Values* 17:51–136.
+- Arendt, Hannah. 1951. *The Origins of Totalitarianism*. N.Y.: Harcourt, Brace.
+- Ásta. 2018. *Categories We Live by: The Construction of Sex, Gender, Race, and Other Social Categories*. New York: Oxford University Press.
+- Ásta. 2011. "The Metaphysics of Sex and Gender." In *Feminist Metaphysics*, edited by Charlotte Witt. Dordrecht: Springer. (Originally published as Ásta Sveinsdóttir)
+- Atwood, Margaret. 1986. *The Handmaid's Tale*. Boston: Houghton Mifflin Harcourt.
+- Baillie, Lesley. 2009. "Patient dignity in an acute hospital setting: a case study." *International journal of nursing studies* 46 (1):23–37.
+- Barclay, Linda. 2018. "A Dignitarian Approach to Disability." In *The Oxford Handbook of Philosophy and Disability*, edited by David Wasserman and Adam Cureton. Oxford: Oxford University Press.
+- Barclay, Linda. 2018. "Dignitarian medical ethics." *Journal of medical ethics* 44 (1):62–7.
+- Barclay, Linda. 2016. "In sickness and in dignity: A philosophical account of the meaning of dignity in health care." *International Journal of Nursing Studies* 61:136–41.
+- Barnes, Elizabeth. 2016. *The Minority Body: A theory of disability*. Oxford: Oxford University Press.
+- Bartky, Sandra. 1990. "Shame and gender." In *Femininity and Domination: Studies in the phenomenology of oppression*, 83–98. New York: Routledge.
+- de Beauvoir, Simone. 1989. *The Second Sex*. New York: Vintage Books.
+- Beitz, Charles. 2009. *The Idea of Human Rights*. Oxford: Oxford University Press.
+- Bentham, Jeremy. 1843. *Principles of the Civil Code; Principles of Penal Law*. Edinburgh: W. Tait.
+- BBC News. 2018. "US drink-drive suspect tells police she's 'clean, white girl'. " August 8. https://www.bbc.com/news/world-us-canada-45119326.
+
+- Bernstein, Jay M. 2015. *Torture and Dignity: An essay on moral injury*. Chicago: University of Chicago Press.
+- Bérubé, Michael. 2009. "Equality, freedom, and/or justice for all: A response to Martha Nussbaum." *Metaphilosophy* 40 (3–4):352–65.
+- Berwick, Donald M. 2009. "What 'patient-centered' should mean: confessions of an extremist." *Health affairs* 28 (4):w555–65.
+- Best, Michael L. 2004. "Can the internet be a human right." *Human Rights & Human Welfare* 4 (1):23–31.
+- Bettcher, Talia Mae. 2009. "Trans Identities and First-Person Authority." In *You've Changed: Sex Reassignment and Personal Identity*, edited by Laurie Shrage. New York: Oxford University Press.
+- Bettcher, Talia Mae. 2013. "Trans Women and the Meaning of 'Woman'." In *Philosophy of Sex: Contemporary Readings, Sixth Edition*, edited by A. Soble, N. Power, and R. Halwani, 233–50. Lanham: Rowan & Littlefield.
+- Bird, Alexander, and Emma Tobin. 2016. "Natural Kinds." In *Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. https://plato.stanford.edu/archives/ spr2018/entries/natural-kinds/
+- Bird, Colin. 2014. "Dignity as a moral concept." *Social Philosophy and Policy* 30 (1–2):150–76.
+- Blum, Lawrence. 2010. "Racialized Groups." *The Monist* 93 (2):298–320.
+- Bozelko, Chandra. 2015. "Prisons that withhold menstrual pads humiliate women and violate basic rights." *The Guardian*, June 12.
+- Brecher, Robert. 2007. *Torture and the Ticking Bomb*. Malden, MA: John Wiley & Sons.
+- Brennan, Andrew, and Y.S. Lo. 2007. "Two Conceptions of Dignity: Honor and Self-Determination." In *Perspectives on Human Dignity: A Conversation*, edited by Jeff Malpas and Norelle Likiss. Dordrecht: Springer.
+- Brown, Alexander. 2017. "A Theory of Legitimate Expectations." *Journal of Political Philosophy* 25 (4):435–60.
+- Buchanan, Allen. 1975. "Distributive justice and legitimate expectations." *Philosophical Studies* 28 (6):419–25.
+- Buchanan, Allen. 2013. *The Heart of Human Rights*. New York: Oxford University Press.
+- Bufacchi, Vittorio, and Jean Maria Arrigo. 2006. "Torture, terrorism and the state: A refutation of the ticking-bomb argument." *Journal of Applied Philosophy* 23 (3):355–73.
+- Butler, Judith. 1990. *Gender Trouble and the Subversion of Identity*. New York: Routledge.
+- Butler, Judith. 2006. *Precarious Life: The powers of mourning and violence*. London: Verso.
+- Butler, Judith. 2004. *Undoing Gender*. New York: Routledge.
+- Calhoun, Cheshire. 2004. "An apology for moral shame." *Journal of Political Philosophy* 12 (2):127–46.
+- Carey, Benedict. 2005. "In the hospital, a degrading shift from person to patient." *The New York Times*, August 16. http://www.nytimes.com/2005/08/16/health/inthe-hospital-a-degrading-shift-from-person-to-patient.html.
+
+- Carlson, Bronwyn. 2016. *The Politics of Identity: Who Counts as Aboriginal Today?* Canberra: Aboriginal Studies Press.
+- Carsten, Janet. 2004. *After Kinship*. Vol. 2: Cambridge: Cambridge University Press.
+- Carter, Ian. 2011. "Respect and the Basis of Equality." *Ethics* 121 (3):538–71.
+- CIA. July 1963. "Kubark Counterintelligence Manual."
+- Cooper, Brittney. 2014. "I am utterly undone: my struggle with black rage and fear after Ferguson." *Salon*. November 26. https://www.salon.com/2014/11/25/ i_am_utterly_undone_my_struggle_with_black_rage_and_fear_after_ferguson/
+- Cooper, Brittney. 2015. "Black death has become a cultural spectacle: Why the Walter Scott tragedy won't change White America's mind." *Salon*. April 9. https:// www.salon.com/2015/04/08/black_death_has_become_a_cultural_spectacle_ why_the_walter_scott_tragedy_wont_change_white_americas_mind/
+- Crary, Alice. 2007. "Humans, Animals, Right and Wrong." In *Wittgenstein and the Moral Life: Essays in Honor of Cora Diamond*, edited by Alice Crary, 381. Cambridge, MA: MIT Press.
+- Darwall, Stephen. 2006. *The Second-person Standpoint: Morality, respect, and accountability*. Cambridge, MA: Harvard University Press.
+- Darwall, Stephen. 1977. "Two Kinds of Respect." *Ethics* 88 (1):36–49.
+- Davis, Hulie Hirschfeld. 2018. "Trump calls some unauthorized immigrants 'animals' in rant." *The New York Times*,May 16.
+- Debes, Remy. 2017. *Dignity: A History*. New York: Oxford University Press.
+- Debes, Remy. 2009. "Dignity's gauntlet." *Philosophical Perspectives* 23 (1):45–78.
+- Debes, Remy. 2017. "Human Dignity Before Kant: Denis Diderot's Passionate Person." In *Dignity: A History*, edited by Remy Debes. New York: Oxford University Press.
+- Dembroff, Robin. forthcoming. "Real Talk on the Metaphysics of Gender." *Philosophical Topics*.
+- Deonna, Julien A, and Fabrice Teroni. 2009. "The self of shame." In *Emotions, Ethics and Authenticity*, edited by Mikko Salmela and Verena Mayer, 33–50. Amsterdam: John Benjamins Publishing Company.
+- Diamond, Cora. 1978. "Eating meat and eating people." *Philosophy* 53 (206):465–79.
+- Diamond, Cora. 1991. "The Importance of Being Human." *Royal Institute of Philosophy Supplements* 29:35–62.
+- Diaz-Leon, Esa. 2015a. "In Defence of Historical Constructivism about Races." *Ergo: An Open Access Journal of Philosophy* 2.
+- Diaz-Leon, Esa. 2015b. "What Is Social Construction?" *European Journal of Philosophy* 23 (4):1137–52.
+- Diaz-Leon, Esa. 2016. "Woman as a politically significant term: A solution to the puzzle." *Hypatia* 31 (2):245–58.
+- Dillon, Robin. 2003. "Respect." In *Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. https://plato.stanford.edu/entries/respect/.
+- Dillon, Robin S. 1997. "Self-respect: Moral, emotional, political." *Ethics* 107 (2):226–49.
+- Dolezal, Luna. 2015. *The Body and Shame: Phenomenology, feminism, and the socially shaped body*. Lanham, MA: Lexington Books.
+
+- Donnelly, Jack. 2015. "Normative versus taxonomic humanity: Varieties of human dignity in the western tradition." *Journal of Human Rights* 14 (1):1–22.
+- Donnelly, Jack. 2013. *Universal Human Rights in Theory and Practice*. 3rd ed. Ithaca, NY: Cornell University Press.
+- Düwell, M., J. Braarvig, R. Brownsword, and D. Mieth. 2014. *The Cambridge Handbook of Human Dignity: Interdisciplinary Perspectives*. Cambridge: Cambridge University Press.
+- Elliott, Carl. 2003. "Attitudes, souls, and persons: Children with severe neurological impairment." *Mental retardation and developmental disabilities research reviews* 9 (1):16–20.
+- Fanon, Frantz. 1986. *Black Skin, White Masks*. London: Pluto Classics.
+- Feinberg, Joel. 1970. "The nature and value of rights." *The Journal of Value Inquiry* 4 (4):243–60.
+- Formosa, Paul, and Catriona Mackenzie. 2014. "Nussbaum, Kant, and the Capabilities Approach to Dignity." *Ethical Theory and Moral Practice* 17 (5):875–92.
+- France-Presse, Agnes. 2017. "North Korea 'sentences Trump to death' for insulting Kim Jong-un." *The Guardian*, November 15. https://www.theguardian.com/usnews/2017/nov/15/north-korea-sentences-trump-to-death-for-insulting-kimjong-un.
+- Fraser, Nancy, and Axel Honneth. 2003. *Redistribution Or Recognition?: A Politicalphilosophical Exchange*. London: Verso.
+- Fricker, Miranda. 2007. *Epistemic Injustice: Power and the ethics of knowing*. New York: Oxford University Press.
+- Galvin, Kathey-Lee. 2001. "Schneider Revisited: Sharing and Ratification in the Construction of Kinship." In *New directions in anthropological kinship*, edited by Linda Stone, 109. Lanham, MA: Rowman and Littlefield.
+- Gewirth, Allen. 1981. "The Basis and Content of Human Rights." In *Human Rights*, edited by J. Roland Pennock and John W. Chapman. New York: New York University Press.
+- Gilabert, Pablo. 2019. *Human Dignity and Human Rights*. New York: Oxford University Press.
+- Gilabert, Pablo. 2015. "Human Rights, Human Dignity, and Power." In *Philosophical Foundations of Human Rights*, edited by Rowan Cruft, Matthew Liao, and Massimo Renzo, 196–213. New York: Oxford University Press.
+- Gilabert, Pablo. 2011. "Humanist and Political Perspectives on Human Rights." *Political Theory* 39 (4):439–67. doi: 10.1177/0090591711408246.
+- Glasgow, Joshua. 2007. "Three things realist constructionism about race—or anything else—can do." *Journal of Social Philosophy* 38 (4):554–68.
+- Goffman, Erving. 1967. *Interaction Ritual: Essays on Face-to-Face Behavior*. New York: Pantheon Books.
+- Goodin, Robert E. 1986. *Protecting the Vulnerable: A re-analysis of our social responsibilities*. Chicago: University of Chicago Press.
+- Griffin, James. 2008. *On Human Rights*. Oxford: Oxford University Press.
+- Griffin, Miriam. 2017. "Dignity in Roman and Stoic Thought." In *Dignity: A History*, edited by Remy Debes. New York: Oxford University Press.
+- Guenther, Lisa. 2013. *Solitary Confinement: Social death and its afterlives*. Minneapolis: University of Minnesota Press.
+
+- Gurris, Norbert. 2001. "Psychic trauma through torture—Healing through psychotherapy." In *Standing at the Side of Torture Survivors: Treating a terrible assault on human dignity*, edited by Sepp Gressner, Norbert Gurris, and Christian Pross, 29–56. Baltimore: Johns Hopkins University Press.
+- Hacking, Ian. 1995. "The looping effects of human kinds." In *Causal Cognition: A multidisciplinary debate*, edited by D. Sperber, D. Premark, and A. J. Premack, 351–94. New York: Oxford University Press.
+- Hacking, Ian. 1999. *The Social Construction of What?* Cambridge, MA: Harvard University Press.
+- Haslanger, Sally. 2000. "Gender and race:(what) are they?(What) do we want them to be?" *Noûs* 34 (1):31–55.
+- Haslanger, Sally. 2012. *Resisting Reality: Social Construction and Social Critique*. New York: Oxford University Press.
+- Henderson, Christine Dunn. 2017. "On Bourgeois Dignity: Making the Self-Made Man." In *Dignity: A History*, edited by Remy Debes. New York: Oxford University Press.
+- Hohfeld, Wesley Newcomb. 1917. "Fundamental legal conceptions as applied in judicial reasoning." *The Yale Law Journal* 26 (8):710–70.
+- Hollenbach, David. 2014. "Human Dignity in Catholic Thought." In *The Cambridge Handbook of Human Dignity: Interdisciplinary Perspectives*, edited by Marcus Düwell, Jens Braarvig, Roger Brownsword, and Dietmar Mieth, 250–9. Cambridge: Cambridge University Press.
+- Honneth, Axel, and Joel Anderson. 2005. "Autonomy, Vulnerability, Recognition, and Justice." In *Autonomy and the Challenges to Liberalism: New Essays*, edited by John Christman and Joel Anderson. Cambridge: Cambridge University Press.
+- Hursthouse, Rosalind. 2007. "Human Dignity and Charity." In *Perspectives on Human Dignity: A Conversation*, edited by Jeff Malpas and Norelle Lickiss. Dordrecht: Springer.
+- Imbach, Ruedi. 2014. "Human dignity in the Middle Ages (twelfth to fourteenth century)." In *The Cambridge Handbook of Human Dignity*, edited by Marcus Düwell, Jens Braarvig, Roger Brownsword, and Dietmar Mieth, 64–73. Cambridge: Cambridge University Press.
+- Ishiguro, Kazuo. 2006. *Never Let Me Go*. New York: Vintage International.
+- Jacobsen, Lone, and Edith Montgomery. 2007. "Treatment of Victims of Torture." In *The Phenomenon of Torture*, edited by William F. Schulz. Philadelphia: University of Pennsylvania Press.
+- Jaworska, Agnieszka, and Julie Tannenbaum. 2013. "The grounds of moral status." In *Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta. https://plato.stanford.edu/entries/grounds-moral-status/.
+- Kant, Immanuel. 1976. *Foundations of the Metaphysics of Morals*. Translated by Lewis Beck. Indianapolis: Bobs-Merrill Educational Publishing.
+- Kateb, George. 2011. *Human Dignity*. Cambridge, MA: Harvard University Press.
+- Kent, Bonnie. 2017. "Human Dignity After the Fall." In *Dignity: A History*, edited by Remy Debes. Oxford: Oxford University Press.
+- Khaitan, Tarunabh. 2011. "Dignity as an expressive norm: Neither vacuous nor a panacea." *Oxford Journal of Legal Studies* 32 (1):1–19.
+
+- Killmister, Suzy. 2018. "Deriving Human Rights From Human Dignity: A Novel Political Approach." In *Political Approaches to Human Rights*, edited by Thomas Campbell and Kylie Bourne. New York: Routledge.
+- Killmister, Suzy. 2010. "Dignity: not such a useless concept." *Journal of Medical Ethics* 36 (3):160.
+- Killmister, Suzy. 2017. "Dignity: personal, social, human." *Philosophical Studies* 174 (8):2063–82.
+- Killmister, Suzy. 2016. "Dignity, Torture, and Human Rights." *Ethical Theory and Moral Practice* 19 (5):1087–1101.
+- Killmister, Suzy. 2011. "Group-Differentiated Rights and the Problem of Membership." *Social Theory and Practice* 37 (2):227–55.
+- King Jr., Martin Luther. 1992. "Letter from Birmingham jail." *UC Davis L. Rev.* 26:835.
+- Kittay, Eva Feder. 2005. "Equality, Dignity, and Disability." In *Perspectives on Equality: The Second Seamus Heaney Lectures*, edited by Mary Ann Lyons and Fionnuala Waldron. Dublin: The Liffey Press.
+- Kolnai, Aurel. 1976. "Dignity." *Philosophy* 51 (197):251–71.
+- Kymlicka, Will. 2018. "Human rights without human supremacism." *Canadian Journal of Philosophy* 48 (6):763–92.
+- Liao, S. Matthew, and Adam Etinson. 2012. "Political and Naturalistic Conceptions of Human Rights: A False Polemic?" *Journal of Moral Philosophy* 9 (3):327–52.
+- Lindemann, Hilde. 2016. *Holding and Letting Go: The social practice of personal identities*. New York: Oxford University Press.
+- Lorberbaum, Yair. 2014. "Human dignity in the Jewish tradition." In *The Cambridge Handbook of Human Dignity: Interdisciplinary Perspectives*, edited by Marcus Düwell, Jens Braarvig, Rp Brownsword, and Dietmar Mieth, 135–44. Cambridge: Cambridge University Press.
+- Luban, David. 2009. "Human Dignity, Humiliation, and Torture." *Kennedy Institute of Ethics Journal* 19 (3):211–30. doi: 10.1353/ken.0.0292.
+- Ludwig, David. 2018. "How race travels: relating local and global ontologies of race." *Philosophical Studies* online first:1–22.
+- Macklin, Ruth. 2003. "Dignity is a Useless Concept: it means no more than respect for persons or their autonomy." *British Medical Journal* 1419 (2).
+- Mah, Ann. 2018. "This Picture Tells a Tragic Story of What Happened to Women After D-Day." *Time*, June 6. https://time.com/5303229/women-after-d-day/ (accessed July 24, 2019).
+- Maibom, Heidi L. 2010. "The descent of shame." *Philosophy and Phenomenological Research* 80 (3):566–94.
+- Maier, Andreas. 2011. "Torture." In *Humiliation, Degradation, Dehumanization*, edited by Paulus Kaufmann, Hannes Kuch, Christian Neuhäuser, and Elaine Webster. Dordrecht: Springer.
+- Mann, Bonnie. 2018. "Femininity, Shame, and Redemption." *Hypatia* 33 (93):402–17.
+- Manne, Kate. 2017. *Down Girl: The logic of misogyny*. Oxford: Oxford University Press.
+- Margalit, Avishai. 2009. *The Decent Society*. Cambridge, MA: Harvard University Press.
+
+- Maroth, Miklos. 2014. "Human dignity in the Islamic world." In *The Cambridge Handbook of Human Dignity: Interdisciplinary Perspectives*, edited by Marcus Düwell, Jens Braarvig, Roger Brownsword, and Dietmar Mieth. Cambridge: Cambridge University Press.
+- May, Todd. 2014. "Moral individualism, moral relationalism, and obligations to non-human animals." *Journal of Applied Philosophy* 31 (2):155–68.
+- McCarthy, Rory. 2004. "They Abused Me and Stole My Dignity." *The Guardian*, May 12. http://www.theguardian.com/world/2004/may/13/iraq.rorymccarthy1? redirection=guardian.
+- McCormack, Claire. 2016. "Revenge porn nightmare: 'I felt I was completely violated'." *Independent.ie*, June 12. https://www.independent.ie/irish-news/revengeporn-nightmare-i-felt-i-was-completely-violated-34792997.html.
+- McCrudden, Christopher. 2008. "Human dignity and judicial interpretation of human rights." *European Journal of International Law* 19 (4):655–724.
+- McMahan, Jeff. 2002. *The Ethics of Killing: Problems at the margins of life*. New York: Oxford University Press.
+- Meyer, Michael J. 1989. "Dignity, rights, and self-control." *Ethics* 99 (3):520–34.
+- Millett, Kate. 1995. *The Politics of Cruelty: An essay on the literature of political imprisonment*. New York: WW Norton & Company.
+- Mills, Charles. 1997. *The Racial Contract*. Ithaca: Cornell University Press.
+- Moon, Dawne, and Theresa W Tobin. 2018. "Sunsets and Solidarity: Overcoming Sacramental Shame in Conservative Christian Churches to Forge a Queer Vision of Love and Justice." *Hypatia* online first.
+- Naujokas, Nijole. 2019. "Life on the Breadline: Centrelink's 'mutual obligation' is a system of humiliation." *The Guardian Australia*, March 6, 2019. https://www. theguardian.com/australia-news/2019/mar/06/life-on-the-breadline-centrelinksmutual-obligation-is-a-system-of-humiliation (accessed April 17, 2019).
+- Nussbaum, Martha. 2006. *Frontiers of Justice: Disability, nationality, species membership*. Cambridge, MA: Belknap Press.
+- Oprisko, Robert L. 2012. *Honor: A phenomenology*. New York: Routledge.
+- Orwell, George. 1961. *1984*. New York: Penguin.
+- Patterson, Orlando. 1982. *Slavery and Social Death*. Cambridge, MA: Harvard University Press.
+- Phillips, Anne. 2015. *The Politics of the Human*. Cambridge: Cambridge University Press.
+- Pinker, Steven. 2008. "The stupidity of dignity." *The new republic* 28 (05.2008).
+- Piper, Adrian. 1992. "Passing for white, passing for black." *Transition* (58):4–32.
+- Probyn, Elspeth. 2005. *Blush: Faces of shame*. Minneapolis: University of Minnesota Press.
+- Rawls, John. 2001. *The Law of Peoples*. Cambridge, MA: Harvard University Press.
+- Rawls, John. 1999. *A Theory of Justice*. Oxford: Oxford University Press.
+- Raz, Joseph. 2010. "Human Rights Without Foundations." In *The Philosophy of International Law*, edited by Samantha Besson and John Tasioulas, 321–37. Oxford: Oxford University Press.
+- Raz, Joseph. 1986. *The Morality of Freedom*. New York: Clarendon Press.
+
+- Richardson-Self, Louise. 2019. "Cisheteromisogyny Online: Perpetuating Patriarchy in the 21st Century." *Ethical Theory and Moral Practice*. Online first.
+- Robinson, Nathan. 2018. Why is San Francisco. . . covered in human feces? *The Guardian*.
+- Rorty, Richard. 1989. *Contingency, Irony, and Solidarity*. New York: Cambridge University Press.
+- Rorty, Richard. 1993. "Human Rights, Rationality, and Sentimentality." In *On Human Rights*, edited by Stephen Shute and Susan Hurley. New York: Basic Books.
+- Rosen, Michael. 2012. *Dignity: Its history and meaning*. Cambridge, MA: Harvard University Press.
+- Rossello, Diego. 2017. "All in the (Human) Family? Species Aristocratism in the Return of Human Dignity." *Political Theory* 45 (6):749–71.
+- Rothe, Dawn L. 2009. *State Criminality: The crime of all crimes*. Lanham, MA: Lexington Books.
+- Ryzik, Melena, Cara Buckley, and Jodi Kantor. 2017. "Louis C.K. Is Accused by 5 Women of Sexual Misconduct." *The New York Times*, November 9.
+- Sahlins, Marshall. 2013. *What Kinship Is—And Is Not*. Chicago: University of Chicago Press.
+- Sangiovanni, Andrea. 2017. *Humanity without Dignity: Moral Equality, Respect, and Human Rights*. Cambridge, MA: Harvard University Press.
+- Saul, Jennifer Mather. 2012. "Politically Significant Terms and Philosophy of Language." In *Out From the Shadows: Analytical Feminist Contributions to Traditional Philosophy*, edited by Sharon L. Crasnow and Anita Superson. New York: Oxford University Press.
+- Scarry, Elaine. 1985. *The Body in Pain: The making and unmaking of the world*. New York: Oxford University Press, USA.
+- Schroeder, Doris. 2008. "Dignity: Two Riddles and Four Concepts." *Cambridge Quarterly of Healthcare Ethics* 17 (02):230–8.
+- Searle, John. 1995. *The Construction of Social Reality*. New York: The Free Press.
+- Searle, John. 2010. *Making the Social World: The structure of human civilization*. Oxford: Oxford University Press.
+- Sensen, Oliver. 2011. *Kant on Human Dignity*. Berlin: Walter de Gruyter.
+- Serano, J. 2016. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity*. Berkeley, CA: Da Capo Press.
+- Singer, Peter. 1995. *Animal Liberation*. New York: Random House.
+- Singer, Peter. 2009. "Speciesism and moral status." *Metaphilosophy* 40 (3–4):567–81.
+- Sommers, Tamler. 2018. *Why Honor Matters*. New York: Basic Books.
+- Spiegelberg, Herbert. 1971. "Human dignity: A challenge to contemporary philosophy." *World Futures: Journal of General Evolution* 9 (1–2):39–64.
+- Statman, Daniel. 2000. "Humiliation, dignity and self-respect." *Philosophical Psychology* 13 (4):523–40.
+- Steinhoff, Uwe. 2013. *On the Ethics of Torture*. Albany, NY: SUNY Press.
+- Strawson, P. F. 2008. *Freedom and Resentment and Other Essays*. New York: Routledge.
+- Stuurman, S. 2017. *The Invention of Humanity: Equality and Cultural Difference in World History*. Cambridge, MA: Harvard University Press.
+
+- Sulmasy, Daniel P. 2007. "Human Dignity and Human Worth." In *Perspectives on Human Dignity: A Conversation*, edited by Jeff Malpas and Norelle Likiss. Dordrecht: Springer.
+- Sussman, David. 2005. "What's wrong with torture?" *Philosophy & Public Affairs* 33 (1):1–33.
+- Tangney, June Price, and Ronda L. Dearing. 2003. *Shame and Guilt*. New York: Guilford Press.
+- Tanier, Mike. 2017. Football's 4-Letter Word Must Be Banished Before it Tears a Team Apart. *Bleacher Report*. Accessed 30 November 2017.
+- Tasioulas, John. 2009. "Are human rights essentially triggers for intervention?" *Philosophy Compass* 4 (6):938–50.
+- Tasioulas, John. 2014. "Human dignity and the foundations of human rights." In *Understanding human dignity*, edited by Christopher McCrudden. Oxford: Oxford University Press.
+- Taylor, Charles. 1994. "The Politics of recognition." In *Multiculturalism and the Politics of Recognition*, edited by Charles Taylor and Amy Gutmann. Princeton, NJ: Princeton University Press.
+- Taylor, Gabrielle. 1985. *Pride, shame, and guilt: Emotions of self-assessment*. Oxford: Oxford University Press.
+- *The Guardian Australia*. 2019. "Life on the Breadline." https://www.theguardian. com/australia-news/series/life-on-the-breadline (accessed April 17, 2019).
+- Thomasson, Amie L. 2003. "Realism and human kinds." *Philosophy and phenomenological research* 67 (3):580–609.
+- Thomson, Judith Jarvis. 1986. "Self-Defense and Rights." In *Rights, Restitution, and Risk*, edited by Wiliam Parent. Cambridge, MA: Harvard University Press.
+- Timerman, Jacobo. 2002. *Prisoner without a Name, Cell without a Number*. Madison: University of Wisconsin Press.
+- Tiwald, Justin. 2017. "Punishment and Autonomous Shame in Confucian Thought." *Criminal Justice Ethics* 36 (1):45–60.
+- Tomkins, Silvan. 1995. "Shame—Humilation and Contempt—Disgust." In *Shame and Its Sisters: A Silvan Tomkins reader*, edited by Eve Kosofsky Sedgwick, Adam Frank, and Irving E. Alexander. Durham, NC: Duke University Press.
+- Trent Jr., James W. 1994. *Inventing the Feeble Mind: A history of mental retardation in the United States*. Vol. 6. Berkeley, CA: University of California Press.
+- United Nations. 1966a. International Covenant on Civil and Political Rights.
+- United Nations. 1966b. International Covenant on Economic, Social, and Cultural Rights.
+- United Nations. 1948. Universal Declaration of Human Rights.
+- Valentini, Laura. 2017. "Dignity and Human Rights: A Reconceptualisation." *Oxford Journal of Legal Studies* 37 (4):862–85.
+- Valentini, Laura. 2012. "In What Sense are Human Rights Political? A Preliminary Exploration." *Political Studies* 60 (1):180–94.
+- Velleman, J. David. 2001. "The Genesis of Shame." *Philosophy and Public Affairs* 30 (1):27–52.
+- Waldron, Jeremy. 2012a. *Dignity, Rank, and Rights*. New York: Oxford University Press.
+
+- Waldron, Jeremy. 2015. "Is Dignity the Foundation of Human Rights?" In *Philosophical Foundations of Human Rights*, edited by Rowan Cruft, S. Matthew Liao, and Massimo Renzo. Oxford: Oxford University Press.
+- Waldron, Jeremy. 2012b. *The Harm in Hate Speech*. Cambridge, MA: Harvard University Press.
+- Waldron, Jeremy. 1991. "Homelessness and the Issue of Freedom." *UCLA L. Rev.* 39:295.
+- Weber, Lynn. 2001. *Understanding race, class, gender, and sexuality*: *A Conceptual Framework*. New York: Oxford University Press.
+- Weinert, Matthew S. 2015. *Making Human: World order and the global governance of human dignity*. Ann Arbor: University of Michigan Press.
+- Williams, Bernard. 1993. *Shame and Necessity*. Berkeley: University of California Press.
+- Wisnewski, J Jeremy. 2010. *Understanding Torture*. Edinburgh: Edinburgh University Press.
+- Witt, Charlotte. 2011. *The Metaphysics of Gender*. New York: Oxford University Press.
+- Wolfendale, Jessica. 2017. "Moral Security." *Journal of Political Philosophy* 25 (2):238–55.
+- Wolfendale, Jessica. 2009. "The myth of 'torture lite'. " *Ethics & International Affairs* 23 (1):47–61.
+- Wong, David. 2017. "Dignity in Confucian and Buddhist Thought." In *Dignity: A History*, edited by Remy Debes. Oxford: Oxford University Press.
+
