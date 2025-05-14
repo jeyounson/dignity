@@ -1,199 +1,29 @@
-# dignity
+# Human Dignity: A Scholarly Resource Repository
 
-@incollection{Debes2017_Introduction,
-  author    = {Remy Debes},
-  title     = {Introduction},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {1--18},
-  isbn      = {9780199385997}
-}
+## Overview
 
-@incollection{Rankine2017_HomerGreece,
-  author    = {Patrice Rankine},
-  title     = {Dignity in Homer and Classical Greece},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {19--46},
-  isbn      = {9780199385997}
-}
+This repository serves as a comprehensive collection of academic resources focused on the concept of human dignity. It encompasses philosophical, legal, and interdisciplinary perspectives, providing structured bibliographic metadata to facilitate research, citation, and knowledge dissemination.
 
-@incollection{Griffin2017_RomanStoic,
-  author    = {Miriam Griffin},
-  title     = {Dignity in Roman and Stoic Thought},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {47--66},
-  isbn      = {9780199385997}
-}
+## Repository Structure
 
-@incollection{Wong2017_ConfucianBuddhist,
-  author    = {David B. Wong},
-  title     = {Reflection: Dignity in Confucian and Buddhist Thought},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {67--72},
-  isbn      = {9780199385997}
-}
+The repository is organized into directories corresponding to individual works or collections. Each directory contains:
 
-@incollection{Kent2017_AfterFall,
-  author    = {Bonnie Kent},
-  title     = {Human Dignity after the Fall},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {73--98},
-  isbn      = {9780199385997}
-}
+* **YAML Metadata**: Structured bibliographic information for each work.
+* **BibTeX Files**: For integration with reference management tools.
+* **CFF Files**: Citation File Format files for software citation.
 
-@incollection{Shah2017_IslamicConceptions,
-  author    = {Mustafa Shah},
-  title     = {Islamic Conceptions of Dignity: Historical Trajectories and Paradigms},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {99--126},
-  isbn      = {9780199385997}
-}
+Please refer to the respective files within each directory for detailed metadata.
 
-@incollection{Copenhaver2017_PicoManetti,
-  author    = {Brian Copenhaver},
-  title     = {Dignity, Vile Bodies and Nakedness: Giovanni Pico and Giannozzo Manetti},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {127--174},
-  isbn      = {9780199385997}
-}
+## Contribution Guidelines
 
-@incollection{Town2017_Portraiture,
-  author    = {Edward Town},
-  title     = {Reflection: Portraiture, Social Positioning, and Displays of Dignity in Early Modern London},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {175--180},
-  isbn      = {9780199385997}
-}
+Contributions to expand this repository are welcome. Please ensure that any additions include accurate metadata in the specified formats.
 
-@incollection{Darwall2017_EqualRights,
-  author    = {Stephen Darwall},
-  title     = {Equal Dignity and Rights},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {181--202},
-  isbn      = {9780199385997}
-}
+## License
 
-@incollection{Debes2017_Diderot,
-  author    = {Remy Debes},
-  title     = {Human Dignity Before Kant: Denis Diderot's Passionate Person},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {203--236},
-  isbn      = {9780199385997}
-}
+This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
 
-@incollection{Sensen2017_Kant,
-  author    = {Oliver Sensen},
-  title     = {Dignity: Kant's Revolutionary Conception},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {237--262},
-  isbn      = {9780199385997}
-}
+---
 
-@incollection{Mills2017_TimeDignity,
-  author    = {Charles W. Mills},
-  title     = {Reflection: A Time for Dignity},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {263--268},
-  isbn      = {9780199385997}
-}
+This `README.md` provides a clear and structured overview of the repository, facilitating ease of use for researchers and contributors interested in the study of human dignity.
 
-@incollection{Henderson2017_SelfMadeMan,
-  author    = {Christine Dunn Henderson},
-  title     = {Bourgeois Dignity: Making the Self-Made Man},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {269--290},
-  isbn      = {9780199385997}
-}
-
-@incollection{Varga2017_MarxMorality,
-  author    = {Somogy Varga},
-  title     = {Reflection: Taking Refuge from History in Morality: Marx, Morality, and Dignity},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {291--300},
-  isbn      = {9780199385997}
-}
-
-@incollection{LaVaqueManty2017_Universalizing,
-  author    = {Mika LaVaque-Manty},
-  title     = {Universalizing Dignity in the Nineteenth Century},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {301--322},
-  isbn      = {9780199385997}
-}
-
-@incollection{Duwell2017_Bioethics,
-  author    = {Marcus Düwell},
-  title     = {Reflection: Why Bioethics Isn't Ready for Human Dignity},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {323--332},
-  isbn      = {9780199385997}
-}
-
-@incollection{Boxill2017_Africana,
-  author    = {Bernard Boxill},
-  title     = {Sympathy and Dignity in Early Africana Philosophy},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {333--360},
-  isbn      = {9780199385997}
-}
-
-@incollection{Kaufman2017_DeathLaw,
-  author    = {Emma Kaufman},
-  title     = {Reflection: Death and Dignity in American Law},
-  booktitle = {Dignity: A History},
-  editor    = {Remy Debes},
-  publisher = {Oxford University Press},
-  year      = {2017},
-  pages     = {361--368},
-  isbn      = {9780199385997}
-}
+[1]: https://www.cambridge.org/core/books/human-dignity-in-international-law/41A2D27870F06F1C640CBF9C66CF9189?utm_source=chatgpt.com "Human Dignity in International Law"

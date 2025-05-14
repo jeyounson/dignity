@@ -1,3 +1,18 @@
+---
+title: "Human Dignity and Social Justice"
+author:
+  name: "Pablo Gilabert"
+  affiliation: "Concordia University"
+publisher: "Oxford University Press"
+year: 2023
+isbn: "9780192871152"
+doi: "10.1093/oso/9780192871152.001.0001"
+citation_key: "Gilabert2023_HumanDignitySocialJustice"
+keywords: ["human dignity", "social justice", "democratic socialism", "labor rights", "exploitation", "alienation", "domination", "solidarity", "equality", "freedom"]
+abstract: |
+  This book offers a systematic defense of the view that human dignity is the moral heart of justice. It extends the dignitarian approach to more ambitious claims of maximal dignity, focusing on the just organization of working practices and recasting critiques of capitalist society in a dignitarian format.
+---
+
 ## Human Dignity and Social Justice
 
 # Human Dignity and Social Justice

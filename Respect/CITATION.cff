@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this book or any chapter in your research, please cite it as below."
+title: "Respect: Philosophical Essays"
+type: book
+version: "1.0"
+date-released: 2021-07-13
+publisher: "Oxford University Press"
+isbn: "978-0-19-882493-0"
+doi: "10.1093/oso/9780198824930.001.0001"
+url: "https://doi.org/10.1093/oso/9780198824930.001.0001"
+editors:
+  - name: "Richard Dean"
+    affiliation: "California State University, Los Angeles"
+  - name: "Oliver Sensen"
+    affiliation: "Tulane University"
+abstract: >
+  This edited volume brings together leading philosophers to explore the concept of respect and its significance in moral philosophy. The essays examine the nature of respect, its role in moral theory, and its applications in various ethical contexts.
+keywords:
+  - respect
+  - moral philosophy
+  - ethics
+  - Kantian ethics
+  - social justice
+  - dignity

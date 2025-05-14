@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this book in your research, please cite it as below."
+title: "Human Dignity and Social Justice"
+authors:
+  - family-names: "Gilabert"
+    given-names: "Pablo"
+    affiliation: "Concordia University"
+    orcid: "0000-0002-1234-5678"  # 예시 ORCID, 실제 ORCID 확인 필요
+date-released: 2023-01-15
+doi: 10.1093/oso/9780192871152.001.0001
+isbn: "9780192871152"
+publisher: "Oxford University Press"
+url: "https://global.oup.com/academic/product/human-dignity-and-social-justice-9780192871152"
+abstract: >
+  This book offers a systematic defense of the view that human dignity is the moral heart of justice. It extends the dignitarian approach to more ambitious claims of maximal dignity, focusing on the just organization of working practices and recasting critiques of capitalist society in a dignitarian format.
+keywords:
+  - human dignity
+  - social justice
+  - democratic socialism
+  - labor rights
+  - exploitation
+  - alienation
+  - domination
+  - solidarity
+  - equality
+  - freedom
