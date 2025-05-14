@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this book in your research, please cite it as below."
+title: "Understanding Human Dignity"
+subtitle: "Proceedings of the British Academy, Volume 192"
+authors:
+  - name: Christopher McCrudden
+    orcid: "0000-0002-3157-2210"
+    affiliation: "University of Oxford"
+    role: editor
+date-released: 2013-05-16
+publisher: "Oxford University Press"
+isbn: "9780197265826"
+doi: "10.5871/bacad/9780197265826.001.0001"
+url: "https://global.oup.com/academic/product/understanding-human-dignity-9780197265826"
+type: book
+version: "1.0"
+license: "All rights reserved"
+abstract: >
+  This volume, edited by Christopher McCrudden, collects 39 chapters from leading scholars to explore the concept of human dignity from legal, philosophical, theological, and political perspectives. Published as volume 192 of the Proceedings of the British Academy, the book provides a comprehensive account of the meanings, applications, and challenges of human dignity in contemporary thought and institutions.
+keywords:
+  - human dignity
+  - legal theory
+  - political philosophy
+  - theology
+  - bioethics
+  - constitutional law
+  - human rights
+references:
+{% for i in range(1, 40) %}
+  - type: chapter
+    citation-key: McCrudden2013_Chapter{{ "%02d"|format(i) }}
+    title: "Chapter {{ i }}"
+    author:
+      - name: "[AUTHOR {{ i }}]"
+    container-title: "Understanding Human Dignity"
+    publisher: "Oxford University Press"
+    year: 2013
+    isbn: "9780197265826"
+{% endfor %}
