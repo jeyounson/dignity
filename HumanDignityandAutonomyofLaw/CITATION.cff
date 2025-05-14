@@ -1,0 +1,107 @@
+cff-version: 1.2.0
+message: "If you use this book or any chapter in your research, please cite it as below."
+title: "Human Dignity and the Autonomy of Law"
+type: book
+version: "1.0"
+date-released: 2022-12-06
+publisher: "Springer"
+isbn: "978-3-031-14823-1"
+doi: "10.1007/978-3-031-14824-8"
+url: "https://doi.org/10.1007/978-3-031-14824-8"
+repository-code: "https://github.com/[your-repo]/dignity-autonomy"
+license: "All rights reserved"
+
+editors:
+  - name: "José Manuel Aroso Linhares"
+    affiliation: "University of Coimbra"
+  - name: "Manuel Atienza"
+    affiliation: "University of Alicante"
+
+abstract: >
+  This edited volume brings together international scholars to explore the relationship between human dignity and the autonomy of law. The book addresses philosophical and legal aspects of dignity, including its role in constitutional design, legal personhood, and contemporary jurisprudence. Part of the Law and Visual Jurisprudence series (vol. 7), it spans contributions that engage with figures such as Levinas and Jeremy Waldron.
+
+keywords:
+  - human dignity
+  - autonomy of law
+  - legal theory
+  - constitutional philosophy
+  - law and morality
+  - Springer
+  - edited volume
+
+references:
+  - type: chapter
+    title: "Dignity/Autonomy of the Law/Human Rights/Comparable Personal Autonomies"
+    authors:
+      - name: "José Manuel Aroso Linhares"
+    doi: "10.1007/978-3-031-14824-8_1"
+  - type: chapter
+    title: "From Human Rights to Human Dignity and Vice Versa"
+    authors:
+      - name: "José de Sousa e Brito"
+    doi: "10.1007/978-3-031-14824-8_2"
+  - type: chapter
+    title: "Models of Consensus and Compromise on Human Rights and Dignity"
+    authors:
+      - name: "João Cardoso Rosas"
+    doi: "10.1007/978-3-031-14824-8_3"
+  - type: chapter
+    title: "The Foundations of Human Rights, Dignity or Autonomy?"
+    authors:
+      - name: "Manuel Atienza"
+    doi: "10.1007/978-3-031-14824-8_4"
+  - type: chapter
+    title: "Hart, Raz and Kelsen on the Puzzle of Law’s Autonomy"
+    authors:
+      - name: "Eduardo A. Chia"
+    doi: "10.1007/978-3-031-14824-8_5"
+  - type: chapter
+    title: "Constructivist Metaphors and Law’s Autonomy in Legal Post-Positivism"
+    authors:
+      - name: "Jesús Vega"
+    doi: "10.1007/978-3-031-14824-8_6"
+  - type: chapter
+    title: "Merit, Value and Justification: Human Dignity Vis-à-Vis Legal (Inter)subjectivity"
+    authors:
+      - name: "Ana Margarida Simões Gaudêncio"
+    doi: "10.1007/978-3-031-14824-8_7"
+  - type: chapter
+    title: "Between Principles and Rules"
+    authors:
+      - name: "Silvia Niccolai"
+    doi: "10.1007/978-3-031-14824-8_8"
+  - type: chapter
+    title: "The Legal Meaning of Human Dignity"
+    authors:
+      - name: "António Cortês"
+    doi: "10.1007/978-3-031-14824-8_9"
+  - type: chapter
+    title: "The Double Sense of the Law-Dignity Relationship in Emmanuel Levinas"
+    authors:
+      - name: "Susan Petrilli"
+    doi: "10.1007/978-3-031-14824-8_10"
+  - type: chapter
+    title: "Human Rights, Rights of the Other, and Preventive Peace"
+    authors:
+      - name: "Augusto Ponzio"
+    doi: "10.1007/978-3-031-14824-8_11"
+  - type: chapter
+    title: "No Argument: Human Dignity and the Making of Legislation"
+    authors:
+      - name: "Julie Copley"
+    doi: "10.1007/978-3-031-14824-8_12"
+  - type: chapter
+    title: "Is Dignity a Non-contingent Autonomously Juridical 'Idea'?"
+    authors:
+      - name: "José Manuel Aroso Linhares"
+    doi: "10.1007/978-3-031-14824-8_13"
+  - type: chapter
+    title: "Does Dignity Promote Law’s Autonomy or Undermine It?"
+    authors:
+      - name: "Orit Kamir"
+    doi: "10.1007/978-3-031-14824-8_14"
+  - type: chapter
+    title: "Images and Counter-Images of Humanitas"
+    authors:
+      - name: "Brisa Paim Duarte"
+    doi: "10.1007/978-3-031-14824-8_15"
