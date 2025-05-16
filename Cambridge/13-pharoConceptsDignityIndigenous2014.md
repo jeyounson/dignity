@@ -1,0 +1,105 @@
+
+
+---
+
+### The concepts of human dignity in moral philosophies of indigenous peoples of the Americas
+
+LARS KIRKHUSMO PHARO∗
+
+The Universal Declaration of Human Rights (UDHR) of 1948 is perceived by many cultures, in particular Western (European and American) ones, as the fundamental point of reference in interpreting and understanding the principles of inalienable universal human rights as based on the inherent dignity of all human beings. Equivalent moral decrees and ideas existed, however, in the intellectual systems of the indigenous peoples of the Americas long before the arrival of the European invaders.1 A concept of universal human dignity remains *avant la lettre* in the thinking and practices of American indigenous peoples. Even if a notion is lacking in a language of a particular culture, the matter might be present.2
+
+Various European nations – the English, Spanish, French, Dutch, Russian and Portuguese being the foremost representatives – invaded the vast continent to be known as the Americas from the beginning of the sixteenth century onwards. Despite the destructive impact the European and the later post-colonial nationstates had on the Americas, there exist different religious, philosophical, linguistic and cultural systems of the indigenous peoples. The philosophical thought of the many Native American nations is a rather poorly studied subject in Western scholarship, where many scholars have not taken the intellectual wisdom of indigenous peoples seriously. To my knowledge, no comparative and systematic research has been conducted about how the concept of human dignity is conceived among Native Americans. Because of the great variety of numerous indigenous nations of an extensive cultural-geographic region, the present chapter will mainly concentrate upon 'the Great Binding Law of Peace' (GBLP) – or 'the Great Law' (*Kay˙ane˜nhs˙¨a*ˀ*˙ona ´* in the Onondaga language) – of the Haudenosaunee (known by outsiders as the Iroquois) confederacy of the northeastern part of the North American continent. However, as will be indicated, this should not be taken to suggest that only the Haudenosaunee had a moral concept of human dignity.
+
+∗ I should like to acknowledge the help of Oren R. Lyons and Philip P. Arnold.
+
+1 A related document to the UDHR is the UN Declaration on the Rights of Indigenous Peoples (2007).
+
+2 Inspired by Bleeker 1973: 66.
+
+The GBLP, which came into being several hundred years before the European invasion,3 contains fundamental ethical principles of universal human dignity. The Haudenosaunee – the Six Nations consisting of Cayuga, Mohawk, Oneida, Onondaga, Seneca and Tuscarora – are considered to have the oldest functioning democracy in the world (cf. Pharo n.d.).4 The GBLP proclaims equality between human beings and genders, and peace with foreign nations – comparable to values of inherent human dignity and universal human rights much later expressed in the UDHR. The GBLP is accordingly an analogous document to the UDHR – or, more precisely, essential ideas of the UDHR resonate in the GBLP since the ethics of human dignity of the moral philosophy of the Haudenosaunee precedes the UDHR by an exceptionally long time span.
+
+#### **Human rights and human dignity: historical sources and methodology**
+
+Universal human rights are required for a life of dignity for every human being (Donnelly 2003: 14, 18), which signifies an inherent respect for global human worth. Humans with dignity have social, political, civil and economic rights, which is why the UDHR relates human dignity to human rights (Gewirth 1992: 10, 15).
+
+The English term 'dignity', which originates from the Latin, *dignit¯as* and *dignus* ('worthy'), has two general meanings. On the one hand, it appears as a synonym for 'honour', reserved exclusively for people who have a high, elevated or honourable rank or position. On the other hand, 'dignity' is related to the state or quality of being worthy of honour or respect, self-respect, self-esteem and self-worth, as applies to each human being living within a judicial-political system that secures equal rights for all members.
+
+In aristocratic societies, the notion of (human) dignity refers to a privilege, which only certain people merit, rather than to the belief that every individual human being has dignity. Systems of hereditary inequality have existed in all parts of the world, and of course in the Americas as well – the civilizations of the Nahua, most famous for the Aztec empire, would be a good example (Leon-Portilla ´ 1990), as would the city-states of the classic Maya of Mesoamerica (Houston and Inomata 2009) and the Inka empire of the Andes in South America (Moseley 2001). These, and other American civilizations not mentioned, constituted *timocracies* (Greek: *tim¯e*, 'honour', 'worth', 'value'; *kratia*, 'power', 'rule by'). Timocracies are societies centred on personal prestige and honour, with a juridical and political structure that reserves human dignity
+
+3 Before the English Bill of Rights (1689), the American Declaration of Independence (1776) and the French Declaration of the Rights of Man (1798).
+
+4 In 1988, The US Senate and House of Representatives passed Concurrent Resolution 331 acknowledging the influence upon the Founding Fathers and the contribution of the Haudenosaunee Confederacy in making the US Constitution of 1787 (Lyons and Mohawk 1992).
+
+for members belonging to the elite (Houston and Inomata 2009: 43). These societies represent hierarchical value systems in which ideas about the 'naturalness' and 'correctness' of moral inequality are legitimized (Rappaport 1999: 426–7). But this does not necessarily imply that persons of lower social ranks or within other social or kin systems lacked a concept of dignity within their own group. Millions of contemporary descendants of the above-mentioned cultures of Mesoamerica and the Andes should not be perceived to endorse 'timocratic' notions of human dignity. Moreover, a pre-Christian/pre-European concept of human dignity can be found in the moral philosophy of the Aztec didactic oratorical moral texts known as *huehuehtlahtolli*. ('words of the elders'). These were *tenonotzaliztli* ('admonishments' or 'exhortations'). Taken from the Aztec pictorial manuscripts (*tlamatinime*), *huehuehtlahtolli* taught self-control, respect and tolerance for other people. There was a call for dignity and moderate behaviour – for qualities of humility, generosity, courtesy and avoidance of excess and passion (Leon-Portilla and Silva Galeana ´ 1988; Leon-Portilla ´ 1990: 30–2; Baudot 1995: 225–34).
+
+The fundamental moral value of universal human dignity in the UDHR is the equal worth and respect between members within a culture and towards other human beings and nations (Donnelly 2003: 191). A methodology of identifying essential values of human dignity from the UDHR can be summarized in a simple theoretical model enquiring whether:
+
+- a political system, where the people have sovereign power (Greek: *demos* 'people'; *kratos*, 'power');
+- human dignity applies to all without regard to social status, class or gender; and
+- human dignity pertains to foreign nations and cultures.
+
+There are quite a few examples in Native American cultures that indicate concepts of human dignity derived from this model. Different people were not identified on the basis of physical appearance but by tribal adherence, kinship, clan, residence in a specific community, and by religious, social and ritual traditions (Miles and Naylor-Ojurongbe 2004: 753). Despite having a notion of uniqueness, indigenous peoples contain hospitable communities where 'stable identities accord to other communities the dignity of the distinct existence that it wishes to receive itself' (Deloria 2003: 210–11).
+
+#### **The Great Binding Law of Peace (kayane ˙ ˙nhs ˜ ä˙ˀkóna) ˙**
+
+The GBLP contains the story about the establishment of the Haudenosaunee ('People of the Longhouse') League (Confederacy) and an outline of its rituals, laws and practices (Woodbury 1992: xi), which became the foundation of a democratic consensus system. It is told in the GBLP that the Creator sent the messenger Tekanaw ´ ˙ `ıtaˀ ('the Peacemaker'), with a moral law so that the nations would live in peace.
+
+European travellers and Jesuit missionaries provide the earliest written accounts of the Confederacy, which substantiate that it was created before the European invasion of the seventeenth century (Trigger 1978; Woodbury 1992: xi). The year 1142 is the earliest date at which some scholars place the formation of the Confederacy. According to indigenous tradition, it was established much earlier.5 The Haudenosaunee became the greatest indigenous power in colonial North America, with a homeland that comprised northern New York between the Hudson and Niagara Rivers and an influence that extended from the Ottawa River to the Chesapeake Bay and from New England to Illinois.
+
+There are several (published) versions of the GBLP (cf. Woodbury 1992: lv–lxi). *Concerning the League: The Iroquois League Tradition as Dictated in Onondaga* by John Arthur Gibson (1992) is the only complete account6 published in one of the languages, Onondaga, of the Haudenosaunee (Woodbury 1992: x–xii). The GBLP contains values of human dignity – the ethics of universal peace, the sovereign power of the people and justice without regard to socio-political status or gender – later recorded in the UDHR.
+
+#### **Ethics of peace, democratic constitution, social and gender equity**
+
+The GBLP constitutes a judicial-political doctrine stating the moral value of peace in which foreign nations and individuals enjoy liberty, respect and worthiness protected by the rule of law. The GBLP was not established only for the Haudenosaunee Confederacy. It represents international law with protection of all peoples. The Peacemaker's moral principles of reason, honesty, justice and peace apply to every human being.
+
+Tekanaw ´ ˙ `ıtaˀ promotes an ethics of peace between people that states it is evil to be unkind or disrespectful towards other human beings. He announces the Good Message (*kaihw´ıy´oh*), the Power (*kaˀsh´astensæ ˙˜ ˀ*) and the Peace (*skeno˜ ˙˜ n*) to everyone. Peace and health shall prevail and thereby unite people, as they share equal worth (Woodbury 1992: xx; xxvii; Gibson 1992: 14–15, 27–33, 37–41, 304). The GBLP provides a universal ethical model of freedom based upon a balance of responsibilities in an egalitarian system. Peace is recognized as something that is built upon law and on the basis of justice practised between people and nations (Wallace 1998: 32, 34).
+
+The GBLP outlines an ideal of human social and political relations based upon the values of equality and freedom. All human beings, genders and communities have an equal part in Creation. Tekanaw ´ ˙ `ıtaˀ proclaims not only the constitution of the confederacy, he delineates the foundation of the central concepts of
+
+<sup>5</sup> www.onondaganation.org/aboutus/timeline.html.
+
+<sup>6</sup> The GLP is memorized with *wampum*, which is a common name for small, white or dark violet, cylindrical seashell pearls. This mnemonic technique is practised by the Haudenosaunee and Algonquian nations in the northeastern part of North America.
+
+the Great Law, the organization of the Confederacy Council, the ideal Commonwealth, the democratic procedures of the Council and a consensus system (Woodbury 1992: xxvi; Gibson 1992: 251–63). This democratic system secures human dignity and human rights for every member of society. After receiving the GBLP from the Creator, the Five Nations established a democratic system of government led by the Grand Council consisting of *Hoyane* (*sachems* or chiefs) from each nation. The GBLP outlines and advances a secure and balanced system with the possibility for each nation to use a veto. When a decision by the Council was passed, it came with the backing of all chiefs and was said to be 'Of One Mind' (Woodbury 1992: xxv, n. 50; Gibson 1992: 38–40).
+
+Rules for decision-making and in addition laws for peaceful relations between the nations are put forward in the GBLP (Woodbury 1992: xxix; Gibson 1992: 440–6). This came into effect when the Tuscarora were invited to join the Confederacy at the beginning of the eighteenth century. The principle and moral value of human rights and dignity cannot be said to be restricted to native people of the Americas, since the Peacemaker conveys the philosophy of a constitution that warns against discriminating against people of a different culture, ethnicity, religion or language. Besides outlining the laws of unity within and between the Five Nations, the GBLP characterizes a supranational constitution that expresses unity in diversity and in which the rights, traditions and identities of every human being are secured.
+
+The GBLP constitutes a protection of the rights of individual beings by freedom from fear and want. There is no private ownership but individual liberty (Woodbury 1992: xxix: Gibson 1992: 41–2, 457–60). All human beings – men, women and children – are related (Gibson 1992: 38–9).7 A philosophy of dignity that affects every member of a society without regard to socio-political status, class or gender is delineated in the GBLP through the establishment of the representative political consensus system. The democratic governmental organization is based on the principle of equality and freedom of speech with a balance of responsibilities between women and men founded on the matrilineal clan system. The fifty chiefs are selected by the Clan Mothers, and each works with his Clan Mother and clan. In Council, the chiefs, who all have an equal say, represent the people, and work to ensure the preservation and well-being of all people (Woodbury 1992: xxviii–xxix; Gibson 1992: 418–22, 460–4). Once a man is selected to be a *Hoyane*, he holds that position for life. But, if a leader does not fulfil his responsibilities to the nation and the clan, he can be removed. It is the clan mothers who control the rules of conduct of the chief and warriors (Woodbury 1992: xxix; Gibson 1992: 450–7), securing rights and respect for every human being without regard to gender or social or political status.
+
+<sup>7</sup> Sally Roesch Wagner (2001) outlines how the gender ideology of the Haudenosaunee, where women live with equal status and authority, later influenced the women's rights movement in North America in the nineteenth century.
+
+Fundamental ethical values of universal human dignity from the UDHR can therefore be established to have existed in Haudenosaunee moral philosophy long before contact with European colonies.
+
+#### **Indigenous American philosophies of human dignity**
+
+In the philosophical argument of Tekana ´ w`ıtaˀ, there is a logical interdependence between peace, democracy, justice, equality with connection to the natural world and the dignity of *all* beings. Indigenous peoples have an intimate relation to nature where all life and every being are equal. There is a value of 'one dish, one spoon' where humans are responsible in a moral eco-philosophy of equity (Oren R. Lyons, personal communication, 26 September 2010). The universal value of dignity connected to nature is not expressed in the UDHR.
+
+In this brief chapter, I have not taken into account the philosophies of the many other Native American civilizations. For instance, the Lenape/Shawnee of North America has a philosophy of democracy and human dignity and rights for women and men. Tecumseh (1768–1813) was a Native American leader of the Lenape/Shawnee and of a great tribal confederacy that opposed the United States during the War of1812. He was constantly exposed to warfare; nevertheless Tecumseh spoke about respect for all people, not only his own: 'Abuse no One and Nothing' (Newcomb 2008: 135–6; Schaaf 1990). Furthermore, the Mixtec (Nuu Savi) of southern Mexico philosopher, Ignacio Ortiz Castro, has outlined a ˜ moral philosophy based upon the ancestral traditions of the Mixtecs, emphasizing values of universal human dignity: hospitality (*na kundeku tnaae*), solidarity (*na chindee tna'ae*) and communality (*da'an*) (Ortiz Castro 2006). These ethical principles also apply to other indigenous communities of the Americas.
+
+Because of restricted space, I have only in a few words presented examples of how human dignity was conceived among selected indigenous nations, and proposed a quite superficial description of the GBLP as representing the highly sophisticated philosophy and complex judicial-political system of the Haudenosaunee. Future research through equal collaboration and discussion with indigenous peoples that analyzes similarities and differences in concepts of human dignity in the philosophies of the indigenous cultures of the Americas is needed because nation-states continue to undervalue indigenous peoples. Instead of extrapolating Euro-American ideas, Panikkar advises a methodology of a search for the 'homeomorphic equivalent' where the various cultures identify a mutual language and common ground (Panikkar 2008: 179–80).
+
+#### **References**
+
+Baudot, G. 1995. *Utopia and History in Mexico: The First Chronicles of Mexican Civilization, 1520–1569*. Niwot, CO: University Press of Colorado
+
+- Bleeker, C. J. 1973. 'Man and His Salvation in the Ancient Egyptian Religion', in E. J. Sharpe and J. R. Hinnells (eds.), *Man and His Salvation: Studies in Memory of S. G. F. Brandon*. Manchester University Press, 65–74
+- Deloria, V., Jr. 2003. *God is Red: A Native View of Religion*. Golden, CO: Fulcrum Publishing
+- Donnelly, J. 2003. *Universal Human Rights in Theory and Practice*. Ithaca, NY: Cornell University Press
+- Gewirth, A. 1992. 'Human Dignity as the Basis of Rights', in M. J. Meyer and W. A. Parent (eds.), *The Constitution of Rights: Human Dignity and American Values*. Ithaca, NY: Cornell University Press, 10–28
+- Gibson, J. A. 1992. *Concerning the League: The Iroquois League Tradition as Dictated in Onondaga by John Arthur Gibson*, trans. and ed. H. Woodbury, R. Henry and H. Webster. Winnipeg: Algonquian and Iroquoian Linguistics
+- Houston, S. D., and Inomata, T. 2009. *The Classic Maya*. Cambridge World Archaeology. Cambridge University Press
+- Leon-Portilla, M. ´ 1990. *Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind*. Civilization of the American Indian Series. Norman, OK: University of Oklahoma Press
+- Leon-Portilla, M., and Silva Galeana, L. ´ 1988. *Huehuehtlahtolli: testimonios de la antigua palabra/estudio introductorio, Miguel Le´on-Portilla; versi´on de los textos nahuas, Librado Silva Galeana*. Mexico: Comision Nacional Conmemorativa del V Cente- ´ nario del Encuentro de Dos Mundos
+- Lyons, O. R., and Mohawk, J. C. (eds.). 1992. *Exiled in the Land of the Free: Democracy, Indian Nations and the US Constitution*. Santa Fe, NM: Clear Light Publishers
+- Miles, T., and Naylor-Ojurongbe, C. E. 2004. 'African-American Indian Societies', in W. C. Sturtevant and R. D. Fogelson (eds.), *Handbook of North American Indians*, vol. 14. Washington, DC: Smithsonian Institution
+- Moseley, M. E. 2001. *The Incas and Their Ancestors: The Archaeology of Peru*. London: Thames & Hudson
+- Newcomb, Steven T. 2008.*Pagansinthe Promised Land: Decodingthe Doctrine of Christian Discovery*. Golden, CO: Fulcrum Publishing
+- Ortiz Castro, I. 2006. *Acercamiento a la filosof´ıa y la ´etica del mundo mixteco*. Coleccion´ dialogos. Pueblos originarios de Oaxaca. Veredas. Conaculta. Culturas populares ´ e indigenas. CNCA-DGCP/Secretar´ıa de Cultura del Gobierno de Oaxaca. Oaxaca de Juarez, Oaxaca. Mexico ´
+- Panikkar, R. 2008. 'Is the Notion of Human Rights a Western Concept?', in R. Falk, H. Elver and L. Hajjar (eds.), *Human Rights: Critical Concepts in Political Science*, vol. 1. London, New York: Routledge, 178–99
+- Pharo, L. K. n.d. 'Democracy of the "New World": The Great Binding Law of Peace and the Haudenosaunee Confederacy', in H. Jordheim and E. Sandmo (eds.), *Conceptualizing the World*. New York: Berghahn Books
+- Rappaport, R. A. 1999. *Ritual and Religion in the Making of Humanity*. Cambridge University Press
+- Roesch Wagner, S. 2001. *Sisters in Spirit: Haudenosaunee (Iroquois) Influences on Early American Feminists*. Summertown, TN: Book Publishing Company
+- Schaaf, G. 1990. *Wampum Belts and Peace Trees*. Golden, CO: Fulcrum Publishing
+- Trigger, B. G. 1978. 'Early Iroquoian Contacts with Europeans', in B. G. Trigger (ed.), *Handbook of North American Indians*, vol. 15. Washington, DC: Smithsonian Institution, 344–56
+- Wallace, P. A. W. 1998. *The White Roots of Peace*. Iroqrafts. Iroquois Reprints. Ohsweken (Ontario): Iroquois Publications
+- Woodbury, H. 1992. 'Introduction', in *Concerning the League: The Iroquois League Tradition as Dictated in Onondaga by John Arthur Gibson*, trans. and ed. H. Woodbury, R. Henry and H. Webster. Winnipeg: Algonquian and Iroquoian Linguistics, xi–lxi

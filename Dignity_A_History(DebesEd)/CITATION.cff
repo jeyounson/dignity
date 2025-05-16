@@ -1,13 +1,23 @@
 cff-version: 1.2.0
-message: "If you use this book or its chapters, please cite it as below."
-title: "Dignity: A History"
+message: "If you use this work, please cite it as below."
+title: "The Cambridge Handbook of Human Dignity: Interdisciplinary Perspectives"
 editors:
-  - family-names: "Debes"
-    given-names: "Remy"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-publisher: "Oxford University Press"
-date-released: 2017-07-03
-isbn: "9780199385997"
-doi: "10.1093/acprof:oso/9780199385997.001.0001"
-url: "https://global.oup.com/academic/product/dignity-a-history-9780199385997"
+  - family-names: Düwell
+    given-names: Marcus
+    affiliation: Universiteit Utrecht, The Netherlands
+  - family-names: Braarvig
+    given-names: Jens
+    affiliation: Universitetet i Oslo
+  - family-names: Brownsword
+    given-names: Roger
+    affiliation: King's College London
+  - family-names: Mieth
+    given-names: Dietmar
+    affiliation: Eberhard-Karls-Universität Tübingen, Germany
+date-released: 2014-03-01
+version: "1.0"
+doi: 10.1017/CBO9780511979033
+isbn: 9780521195782
+publisher: Cambridge University Press
+url: https://www.cambridge.org/core/books/cambridge-handbook-of-human-dignity/19C19E42A9431850F642ADAA11118527
 type: book

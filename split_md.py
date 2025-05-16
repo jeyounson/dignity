@@ -2,7 +2,7 @@
 import os
 
 # 설정
-input_file = "Respect/Respect.md"
+input_file = "Cambridge/CambridgeHandbookofHumanDignity.md"
 split_marker = "<!-- SPLIT HERE -->"
 output_prefix = "split_part_"
 
