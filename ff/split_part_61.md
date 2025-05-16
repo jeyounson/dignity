@@ -1,6 +1,6 @@
 ### On the border of life and death: human dignity and bioethics
 
-MARCUS DUWELL ¨
+MARCUS DÜWELL
 
 A greater number of explicit references to human dignity can be found in bioethical debates than in virtually any other context. This may have its ground in the subject-matter of bioethical debates, namely, questions of life and death, which undoubtedly concern the dignity of a person. It may, however, also be a consequence of the strong influence that various religions and ideologies have on these debates. It seems that, in bioethics, the term 'human dignity' is quite often used in a way that seems to distinguish different ideological camps, which gave rise to the idea that the term would be connected to a conservativecommunitarian network with strong links in various religious circles.
 

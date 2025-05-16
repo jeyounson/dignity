@@ -1,6 +1,6 @@
 ### Human dignity: concepts, discussions, philosophical perspectives
 
-MARCUS DUWELL ¨
+MARCUS DÜWELL
 
 The following introduction aims at an overview of relevant conceptual and philosophical distinctions and questions that discussions about human dignity are confronted with. I will mainly focus on questions about 'human dignity' that are relevant within the context of the human rights framework. First, I will explain why we are in need of a philosophical account of human dignity at all. Second, I will distinguish different ideal typical models of (human) dignity. Third, I will distinguish different conceptual questions related to different approaches to human dignity and their philosophical articulations. Fourth, I will investigate some relevant questions on the way towards an ethics of human dignity. Finally, I will propose some topics that I consider to be important questions for future philosophical debates about this concept.
 

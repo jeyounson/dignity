@@ -2,7 +2,7 @@
 
 This introduction to human dignity explores the history of the notion from antiquity to the nineteenth century, and the way in which dignity is conceptualized in non-Western contexts. Building on this, it addresses a range of systematic conceptualizations, considers the theoretical and legal conditions for human dignity as a useful notion and analyzes a number of philosophical and conceptual approaches to dignity. Finally, the book introduces current debates, paying particular attention to legal implementation, human rights, justice and conflicts, medicine and bioethics, and provides an explicit systematic framework for discussing human dignity. Adopting a wide range of perspectives and taking into account numerous cultures and contexts, this handbook is a valuable resource for students, scholars and professionals working in philosophy, law, history and theology.
 
-**Marcus Duwell ¨** is Professor for Philosophical Ethics and Director at the Ethics Institute at Utrecht University, The Netherlands.
+**MARCUS DÜWELL** is Professor for Philosophical Ethics and Director at the Ethics Institute at Utrecht University, The Netherlands.
 
 **Jens Braarvig** is Professor of Religious Studies at the University of Oslo, Norway.
 
@@ -65,7 +65,7 @@ Cambridge University Press has no responsibility for the persistence or accuracy
 |           | Why a handbook on human dignity?                                                                                                                             | xvii   |
 |           | Acknowledgments                                                                                                                                              | xxiii  |
 | 1         | Human dignity from a legal perspective<br>ROGER BROWNSWORD                                                                                                   | 1      |
-| 2         | Human dignity: concepts, discussions, philosophical perspectives<br>MARCUS DUWELL ¨                                                                          | 23     |
+| 2         | Human dignity: concepts, discussions, philosophical perspectives<br>MARCUS DÜWELL                                                                          | 23     |
 | Part<br>I | Origins of the concept in European history                                                                                                                   |        |
 | 3         | Meritocratic and civic dignity in Greco-Roman antiquity<br>JOSIAH OBER                                                                                       | 53     |
 | 4         | Human dignity in the Middle Ages (twelfth to fourteenth century)<br>RUEDI IMBACH                                                                             | 64     |
@@ -148,11 +148,11 @@ Cambridge University Press has no responsibility for the persistence or accuracy
 |----------|-------------------------------------------------------------------------------------------------------|-------------------|
 | Part VII | Biology and bioethics                                                                                 |                   |
 | 57       | The threefold challenge of Darwinism to an ethics of human dignity<br>CHRISTIAN ILLIES                | 517               |
-| 58       | On the border of life and death: human dignity and bioethics<br>MARCUS DUWELL ¨                       |                   |
+| 58       | On the border of life and death: human dignity and bioethics<br>MARCUS DÜWELL                       |                   |
 | 59       | Human dignity and commodification in bioethics<br>ALASTAIR V. CAMPBELL                                |                   |
 | 60       | Dignity only for humans? A controversy<br>ROBERT HEEGER                                               |                   |
 | 61       | Dignity only for humans? On the dignity and inherent value of<br>non-human<br>beings<br>PETER SCHABER |                   |
-| 62       | Human dignity and future generations<br>MARCUS DUWELL ¨                                               |                   |
+| 62       | Human dignity and future generations<br>MARCUS DÜWELL                                               |                   |
 |          | 1<br>Appendix<br>Further reading<br>2<br>Appendix<br>Universal Declaration of Human Rights<br>Index   | 559<br>563<br>570 |
 
 
@@ -295,7 +295,7 @@ Part III discusses the role of human dignity in various legal traditions, and th
 
 We see this handbook as an opening, rather than a concluding, publication for an understanding of the history, the meaning and the normative function of human dignity. Much remains to be debated: it will be the task of future research to write a comprehensive history of human dignity, and it will need more philosophical and legal scholarship to understand in which ways human dignity can fulfil its foundational role within the context of human rights. It will, in particular, be important to engage more strongly in a dialogue between the existing philosophical approaches and philological and historical research about various intellectual traditions from the whole globe. From our point of view, an international debate about human dignity, its historical and cultural roots, and its philosophical justification, has only just begun. All attempts to conclude these debates would be inappropriate given the lively discussions that have been a feature of recent years. We hope that this handbook can provide the necessary tools for future debate and discussion so that a more comprehensive understanding of human dignity is possible.
 
-> marcus duwell ¨ jens braarvig roger brownsword dietmar mieth
+> MARCUS DÜWELL jens braarvig roger brownsword dietmar mieth
 
 #### **References**
 
@@ -618,7 +618,7 @@ Legal debates that revolve around human rights and human dignity are full of twi
 
 ### Human dignity: concepts, discussions, philosophical perspectives
 
-MARCUS DUWELL ¨
+MARCUS DÜWELL
 
 The following introduction aims at an overview of relevant conceptual and philosophical distinctions and questions that discussions about human dignity are confronted with. I will mainly focus on questions about 'human dignity' that are relevant within the context of the human rights framework. First, I will explain why we are in need of a philosophical account of human dignity at all. Second, I will distinguish different ideal typical models of (human) dignity. Third, I will distinguish different conceptual questions related to different approaches to human dignity and their philosophical articulations. Fourth, I will investigate some relevant questions on the way towards an ethics of human dignity. Finally, I will propose some topics that I consider to be important questions for future philosophical debates about this concept.
 
@@ -6262,7 +6262,7 @@ Singer, P. 1982. 'Ethics and Sociobiology', *Philosophy and Public Affairs* 11(1
 
 ### On the border of life and death: human dignity and bioethics
 
-MARCUS DUWELL ¨
+MARCUS DÜWELL
 
 A greater number of explicit references to human dignity can be found in bioethical debates than in virtually any other context. This may have its ground in the subject-matter of bioethical debates, namely, questions of life and death, which undoubtedly concern the dignity of a person. It may, however, also be a consequence of the strong influence that various religions and ideologies have on these debates. It seems that, in bioethics, the term 'human dignity' is quite often used in a way that seems to distinguish different ideological camps, which gave rise to the idea that the term would be connected to a conservativecommunitarian network with strong links in various religious circles.
 
@@ -6538,7 +6538,7 @@ If living beings have inherent value, then certain treatments are appropriate, o
 
 <!-- SPLIT HERE -->
 
-### Human dignity and future generations MARCUS DUWELL ¨ ∗
+### Human dignity and future generations MARCUS DÜWELL ∗
 
 The questions of whether we have obligations towards future generations, why we have such obligations and what these obligations entail, are important topics of discussion in contemporary moral and political philosophy. While there seems to be political consensus on the view that we are obligated to adopt a policy of sustainability, the reasons why we should endorse such an obligation are highly contested. The dominant argument can be found in the so-called 'Brundtland definition' of 'sustainable development': 'sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs' (United Nations 1987:37). In this line of thought, the obligation towards future generations is a normative reason for a sustainable politics. Of course, we also have reasons to act sustainably because of the rights of current (particularly the younger) generations, but various aspects of a sustainable politics are only necessary if we take future generations into account. Such an obligation to a long-term sustainable policy would assume that there is something about future generations that gives us obligations towards them. But if we attribute rights to future generations, we would assume that human rights should be attributed to beings that do not and may never exist. This problem is quite extensively discussed in terms of 'rights of future generations' or 'intergenerational justice' (for example, Grosseries and Meyer 2009; Hiskes 2009) but the concept of human dignity is hardly ever referred to. In the following I will briefly explain (1) the obstacles we are facing if we talk about human dignity in the context of future generations; (2) what such a conceptualization could look like; and (3) what further philosophical and practical issues arise from this.
 
