@@ -2,9 +2,9 @@
 import os
 
 # 설정
-input_file = "Cambridge/CambridgeHandbookofHumanDignity.md"
+input_file = "PhilosophicalFoundationsofHumanRights/z_all-chpters_PhilosophicalFoundationsofHumanRights.md"
 split_marker = "<!-- SPLIT HERE -->"
-output_prefix = "split_part_"
+output_prefix = "chapter_"
 
 # 읽기
 with open(input_file, "r", encoding="utf-8") as f:
